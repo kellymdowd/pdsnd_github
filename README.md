@@ -18,4 +18,5 @@ new_york_city.csv
 washington.csv
 
 ### Credits
+Forked from udacity/pdsnd_github
 https://www.freecodecamp.org/news/gitignore-what-is-it-and-how-to-add-to-repo/
