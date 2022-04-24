@@ -4,7 +4,7 @@
 4/24/2022
 
 ### Project Title
-Udacity Git Project
+Udacity "Post Your Work on GitHub Project"
 
 ### Description
 This project is part of Udacity's Programming for Data Science with Python nanodegree. It involves creating a local and remote repository, refactoring code from the bikeshare project and pushing commits.
